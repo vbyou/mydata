@@ -4,6 +4,7 @@
   <artifactId>parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  
   <modules>
   	<module>babasport-common</module>
   	<module>babasport-pojo</module>
